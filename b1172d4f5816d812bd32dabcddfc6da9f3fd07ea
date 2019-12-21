@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1576927616 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_samsung_universal7580-common\nnonce 1576927616-A9F53DDCFCF67D3BF6B0D34B912A85F1302BC1B6\n\n0000000000000000000000000000000000000000 b1172d4f5816d812bd32dabcddfc6da9f3fd07ea refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl3+AYAACgkQ8iL05i7N\nJTGhdgf+Ja/kN8QhhZwtTRbOfbLV+xv8/zaLeQ3Wua0sdnl+ydKDC7i9Y1oYtWzp\npy6+yj//ka+ZtIh/r4MiI2rs/VVe7os2/3jThInE278zJJHpkSS3/tRSe+K7ic5X\nl95nuAs/QQsHZiZKh5a/7oLWoH6a1dw7GqppKja38wzsHv2a3SR3ZqrWcak/Uv+D\nT/I331SuNg/ZPjdnxukRFMm9r0A5TZAbcB7w8kjX2JkcR3WhfXFgORlVUhj3qkrY\nFS0ycGNoO/VW54//AGuzZpNj0ChO6/HxGndBxhlxta6gcoqa3pVwS7139UsR3kDB\nl2C5MmU7Rii1aj1l/4e7LfDMTh+QFw\u003d\u003d\n\u003d7JAe\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
